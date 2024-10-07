@@ -1,31 +1,20 @@
 # Incident Report 
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Inspect network traffic and network data to determine the root cause of network-related issues during cybersecurity incidents by analyzing patterns, detecting anomalies, identifying unauthorized access attempts, and isolating potential threats. Then once done make a report to state what occured during the issue at hand
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Incident Analysis and Investigation
+- Forensic Skills
+- Network Traffic Analysis
+- Report Writing and Communication
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Access helping information here: ![Screen Shot 2024-10-07 at 5 04 17 PM](https://github.com/user-attachments/assets/9fbf8232-2cb4-499d-88d7-b0eb18dca212)
 
-Every screenshot should have some text explaining what the screenshot is about.
+Access incident report righ here: [Cybersecurity Incident report .docx](https://github.com/user-attachments/files/17284969/Cybersecurity.Incident.report.docx)
 
-Example below.
-
-*Ref 1: Network Diagram*
